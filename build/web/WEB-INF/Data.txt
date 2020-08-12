@@ -1,0 +1,4 @@
+ToCreatePage=LoadCreatePageServlet
+CreateForm=CreateFormServlet
+modifyEmployees=modifyEmployeesServlet
+BacktoDefault=Default.jsp
